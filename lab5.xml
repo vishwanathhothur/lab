@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="lab5.css"?>
+<students>
+<student>
+<usn>usn:4vv14cs029</usn>
+<name>name:vish</name>
+<college_name>college name:vvce</college_name>
+<email>email:vish@gmail.com</email>
+<branch>branch:computer science</branch>
+<year>year:2020</year>
+</student>
+<student>
+<usn>usn:4vv14cs028</usn>
+<name>name:cish</name>
+<college_name>college:vvce</college_name>
+<email>email:cish@gmail.com</email>
+<branch>branch:computer science</branch>
+<year>year:2020</year>
+</student>
+<student>
+<usn>usn:4vv14cs027</usn>
+<name>name:vishu</name>
+<college_name>college:vvce</college_name>
+<email>email:vishu@gmail.com</email>
+<branch>branch:computer science</branch>
+<year>year:2020</year>
+</student>
+</students>
